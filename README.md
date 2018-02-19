@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+## Copyright
+
+2018 Git. Training.
