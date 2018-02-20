@@ -15,3 +15,4 @@ PLEASE LEAVE A REVIEW OK THANKS :D
 
     HTML5, CSS3
     jQuery, Modernizr
+    git, svn, cvs
